@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.maindiv{
+  background-color: lavender;
+  height: auto;
+  width: 70%;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+}
+
+.card1{
+  /*background-color: lightcyan;*/
+  background-color: aliceblue;
+  width: 100px;
+  height: 110px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.icon a i{
+  
+  border: 1px solid white;
+  border-radius: 50px;
+  margin:80px;
+  background-color: whitesmoke;
+}
